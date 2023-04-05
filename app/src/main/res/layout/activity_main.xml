@@ -8,7 +8,7 @@
 
     <TextView
         android:id="@+id/textView"
-
+        style="@style/MainStyle.PrimaryText"
         android:layout_marginTop="328dp"
         android:layout_marginEnd="168dp"
         android:text="brand_tagline"
@@ -19,7 +19,7 @@
 
     <TextView
         android:id="@+id/textView3"
-
+        style="@style/MainStyle.SecondaryText"
         android:layout_width="91dp"
         android:layout_height="46dp"
         android:layout_marginStart="152dp"
